@@ -2,7 +2,7 @@
 
 ## asp.net core  Rsazor Page BMI Sample code with unit test 
 
-### ³o¬OAzure DevOps¤W½Ò¥Î½d¨Ò repo
-### ³o¬OAzure DevOps in Action ®ÑÄy¥Î½d¨Ò repo
+### é€™æ˜¯Azure DevOpsä¸Šèª²ç”¨ç¯„ä¾‹ repo
+### é€™æ˜¯Azure DevOps in Action æ›¸ç±ç”¨ç¯„ä¾‹ repo
 
-<img src='https://i.imgur.com/gQFsmD5.png' />
+<img src='https://i.imgur.com/stw1vPF.png' />
